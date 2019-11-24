@@ -1,6 +1,6 @@
 // stgv2
 
-let stgTitle = "* S T G * v2 c1.0"
+let stgTitle = "* S T G * v2 c2.0"
 let [canvasx, canvasy] = [720, 690];
 
 function setup() {
@@ -10,7 +10,6 @@ function setup() {
 }
 
 function draw() {
-  game.scenectl();
 }
 
 class Game {
